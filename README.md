@@ -37,4 +37,4 @@ Turn: A fourth community card is revealed, and another betting round follows.
 River: The fifth and final community card is revealed, and a final betting round occurs.
 Showdown: If multiple players are still in the game after the final betting round, their hands are revealed, and the best hand wins
 
-A good reference for a Python-based poker game is the repository python-poker. This repository provides a solid starting point for implementing a poker game in Python and includes logic for deck shuffling, dealing cards, and hand evaluation.
+A good reference for a Python-based poker game is the repository [python-poker](https://github.com/ishikota/PyPokerEngine). This repository provides a solid starting point for implementing a poker game in Python and includes logic for deck shuffling, dealing cards, and hand evaluation.
