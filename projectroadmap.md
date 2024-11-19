@@ -1,0 +1,17 @@
+- Sprint 1 
+- Define what im going to work on for the project
+- Complete Sprint 1 Quiz
+- Implement Card Class
+- Implement Deck Class
+- Define the Player Class
+- Sprint 2
+- Work on the betting system
+- Handle betting rounds
+- Winner determination
+- Basic player interaction
+- Sprint 3
+- Work on the User Interface
+- Work on game enhancements (antes and blinds)
+- Work on game flow
+- Finish testing
+- Finish documentation
